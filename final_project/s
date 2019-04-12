@@ -1,0 +1,5 @@
+#!/bin/bash
+# show the disk contents under LINUX
+sudo mount -o loop disk /mnt
+ls -l /mnt
+sudo umount /mnt

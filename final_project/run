@@ -1,0 +1,4 @@
+#!/bin/bash
+# renew the disk image file
+mkfs disk 1440  
+a.out
